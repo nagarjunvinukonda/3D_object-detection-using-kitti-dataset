@@ -2,6 +2,8 @@
 
 3D Object detection is an active research problem for Perception of Autonomous Vehicles. The goal of our project is to understand the Frustum PointNet architecture and experiment with possible design modifications and evaluate their influence on performance metrics. There are various components in the 3D Object Detection Pipeline and we have experimented with a few modifications in the architecture and loss functions.
 
+* ****NOTE:-**** *Please read our project report and presentation for detail explanation*
+
 # DATASET
 
 The dataset is collected from KITTI vision benchmark suite, which has been captured from a VW station wagon for use in mobile robotics and autonomous driving research. In total, the data of 6 hours of traffic scenarios has been recorded at 10-100 Hz using a variety of sensor modalities such as high-resolution color and grayscale stereo cameras, a Velodyne 3D laser scanner and a high-precision GPS/IMU inertial navigation system. 
